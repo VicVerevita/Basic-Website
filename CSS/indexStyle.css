@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    height: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    background-color: #1d1d1d;
+}
+
+/* Page content */
+.content     {
+    padding-top: 160px;
+    padding-bottom: 160px;
+    padding-left: 180px;
+    z-index: -1;
+    position: relative;
+}
+
+.content > h1 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+.hiText {
+    position: relative;
+    top: 38px;
+}
+
+#presentation {
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 1s; /* Firefox < 16 */
+    -o-animation: fadein 1s; /* Opera < 12.1 */
+    animation: fadein 1s;
+
+    user-select: none;
+}
+
+.tags {
+    user-select: none;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+
+.top-tags , .bottom-tags {
+    font-family: 'Dancing Script', cursive;
+    color: #343434;
+    font-size: 24px;
+    padding-left: 150px;
+
+    /* Fade-In Animation */
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 1s; /* Firefox < 16 */
+    -o-animation: fadein 1s; /* Opera < 12.1 */
+    animation: fadein 1s;
+}
+
+.inner-tag-close , .inner-tag-open {
+    font-family: 'Dancing Script', cursive;
+    color: #343434;
+    font-size: 24px;
+
+    /* Fade-In Animation */
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 1s; /* Firefox < 16 */
+    -o-animation: fadein 1s; /* Opera < 12.1 */
+    animation: fadein 1s;
+}
+
+.inner-tag-open {
+    position: relative;
+    top: 60px;
+}
+
+.inner-tag-close {
+    position: relative;
+    bottom: 15px;
+}
+
+.top-tags {
+    position: relative;
+    top: 30px;
+}
+
+.bottom-tags {
+    position: relative;
+    bottom: 360px;
+}
+
+.html-tag {
+    position: relative;
+    left: 80px;
+    bottom: 20px;
+}
+
+.index-text {
+    position: relative;
+    left: 60px;
+}
+
+#arrow {
+    position: relative;
+    right: 360px;
+    font-size: 20px;
+    color: #818181;
+}
+
+.video-responsive {
+    position: relative;
+    left: 780px;
+    bottom: 425px;
+}

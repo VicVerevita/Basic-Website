@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9905fd1e-854d-4515-a88c-887bf4519f6b" name="Default Changelist" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/../Activator/.idea/Activator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activator/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activator/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/.idea/OSA Site 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/CSS/indexStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/CSS/navBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/HTML/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/HTML/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/HTML/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/HTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/HTML/log-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/HTML/offers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site 2/JS/animsition.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/OSA Site 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/aboutStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/indexStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/navBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/shopStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoProject/.idea/DemoProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoProject/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoProject/DemoProject/DemoApp/Templates/DemoApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/navBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Logo p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Logo p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Untitled-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/V.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/address-card-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/envelope-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/facebook-f-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/instagram-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/linkedin-in-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/money-bill-wave-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/shopping-cart-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/sign-in-alt-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/twitter-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/.idea/OSA Site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/HTML/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/HTML/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/HTML/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/HTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/HTML/offers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/HTML/sign-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/Logo p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/Logo p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/Untitled-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/V.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/address-card-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/envelope-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/facebook-f-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/instagram-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/linkedin-in-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/money-bill-wave-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/shopping-cart-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/sign-in-alt-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/Sources/twitter-brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/css/animsition.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/css/indexStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/js/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OSA Site/js/animsition.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-advanced-2020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/alert.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/button.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/carousel.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/collapse.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/dropdown.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/modal.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/popover.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/scrollspy.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/tab.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/toast.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/tooltip.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/dist/util.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/tools/sanitizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_interactions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/node_modules/bootstrap/scss/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactlearn1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simplereact1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/Media/Elefantul Cici Manea (ORIGINAL) - RobyOnee.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/Media/Joji - Run (Lyrics).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/Media/Poza profil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/Practice1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/Tab 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/place-order.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7" />
+  <component name="ProjectId" id="1mPlhhbGyTgGn1bcLKHzFb1SB1g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\Front-End\OSA Site 3\Sources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9905fd1e-854d-4515-a88c-887bf4519f6b" name="Default Changelist" comment="" />
+      <created>1609403227367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609403227367</updated>
+      <workItem from="1609403228453" duration="10717000" />
+      <workItem from="1610197067697" duration="8528000" />
+      <workItem from="1611163824372" duration="116000" />
+      <workItem from="1611163975017" duration="6186000" />
+      <workItem from="1611170889935" duration="4702000" />
+      <workItem from="1611181823615" duration="2425000" />
+      <workItem from="1611334222067" duration="30000" />
+      <workItem from="1611494618837" duration="1565000" />
+      <workItem from="1611761939442" duration="1390000" />
+      <workItem from="1613649403535" duration="30000" />
+      <workItem from="1613818372068" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="859" y="75" key="#PHP" timestamp="1611171228892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="859" y="75" key="#PHP/0.0.1536.864@0.0.1536.864" timestamp="1611171228892" />
+    <state x="194" y="274" key="#SQL_Dialects" timestamp="1611170935539">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="194" y="274" key="#SQL_Dialects/0.0.1536.864@0.0.1536.864" timestamp="1611170935539" />
+    <state x="319" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611494988173">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="319" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1611494988173" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611164462760">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1611164462760" />
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1611334240696">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1611334240696" />
+    <state x="988" y="356" key="NewPhpFileDialog" timestamp="1611171548945">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="988" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1611171548945" />
+    <state x="272" y="76" key="SettingsEditor" timestamp="1611183824224">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="272" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1611183824224" />
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1609413793632">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1609413793632" />
+  </component>
+</project>
